@@ -1,0 +1,5 @@
+Está carpeta incluye sub folders de la teoría y código de cada tema de investigación de muñones que se estudio.
+
+* Las carpetas pueden incluir código de C++, ROOT, python y Mathematica.
+
+* Para ver instrucciones de uso, ver el LÉEME.md de cada carpeta.
