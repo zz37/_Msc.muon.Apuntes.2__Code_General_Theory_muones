@@ -3,6 +3,7 @@ build/
 
 # gitignore todo archivo ds_store 
 *.DS_Store
+**/.DS_Store
 
 # gitignore patrón para C++
 ### C++ ###
